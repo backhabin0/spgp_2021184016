@@ -14,7 +14,7 @@
 
 ## 예상 게임 흐름 
 1. 지도에서 오픈하고싶은 레스토랑 선택.
-![제목을 입력해주세요_-001 (2)](https://github.com/backhabin0/spgp_2021184016/assets/115928688/3a167545-d7d6-4c77-a2a4-a309b89f6fc9)
+![제목을 입력해주세요_-001 (2)](https://github.com/backhabin0/spgp_2021184016/assets/115928688/3a167545-d7d6-4c77-a2a4-a309b89f6fc9)<img src="이미지주소.png" width="200" height="400"/>
 
 
 
