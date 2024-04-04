@@ -17,8 +17,7 @@
 
 ## 예상 게임 흐름 
 1. 지도에서 오픈하고 싶은 레스토랑 선택.
-[<img src="(https://github.com/backhabin0/spgp_2021184016/assets/115928688/9386eae9-bb3c-4462-8d62-23c6b2e66944.png"  width="150">](https://github.com/backhabin0/spgp_2021184016/issues/new)
-
+![1](https://github.com/backhabin0/spgp_2021184016/assets/115928688/8a1c7fcf-723e-42e2-ae8f-8bc5f80e0841)
 2. 주문이 들어오면 알맞은 재료를 터치를 통해 선택하여 조리를 하고 시간안에 맞춰서 음식 제출을 해야하게 된다.
 ![제목을-입력해주세요_-001 (4)](https://github.com/backhabin0/spgp_2021184016/assets/115928688/26ae6673-5c7c-4a60-ac3d-81fafd801db1)
 3. 하루 주문이 끝나면 아이템을 사용하여 주방 강화를 할 수 있다 .
