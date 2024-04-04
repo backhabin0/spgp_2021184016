@@ -52,9 +52,7 @@
 
 
 ##발표 영상 링크 
-
-##이미지 출처 
-
+https://youtu.be/TLABqq4Ihfk
 
 
 
