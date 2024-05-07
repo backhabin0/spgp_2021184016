@@ -1,4 +1,4 @@
-package com.example.cookingcraze;
+package com.example.cookingcraze.app;
 
 import android.os.Bundle;
 
@@ -7,7 +7,7 @@ import androidx.appcompat.app.AppCompatActivity;
 import androidx.core.graphics.Insets;
 import androidx.core.view.ViewCompat;
 import androidx.core.view.WindowInsetsCompat;
-
+import com.example.cookingcraze.R;
 public class MainActivity extends AppCompatActivity {
 
     @Override
