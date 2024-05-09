@@ -13,7 +13,10 @@
         android:theme="@style/Theme.CookingCraze"
         tools:targetApi="31">
         <activity
-            android:name=".app.MainActivity"
+            android:name="APP.pizzagameActivity"
+            android:exported="false" />
+        <activity
+            android:name="APP.MainActivity"
             android:exported="true">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
