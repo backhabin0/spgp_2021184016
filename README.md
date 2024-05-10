@@ -84,13 +84,14 @@ https://youtu.be/TLABqq4Ihfk
 
 
 ## MainScene클래스 구성정보 
+![image](https://github.com/backhabin0/spgp_2021184016/assets/115928688/277ae606-1faf-49bf-b95c-482eaa60784a)
 
 # food 주요코드
 ![image](https://github.com/backhabin0/spgp_2021184016/assets/115928688/1d88e6b4-c7db-44b0-8d26-3755e7ceac35)
-
+ 코드는 게임에서 라운드에 맞는 객체를 생성하고 초기 위치를 설정하는 역할을 합니다.
 # round Activity 주요코드
-# player 주요코드
-# round 주요코
+![image](https://github.com/backhabin0/spgp_2021184016/assets/115928688/7571e6a9-04c8-48aa-841f-d2ad17cf4d89)
+이미지뷰를 클릭할때마다 이전 이미지를 삭제하고 새로운 이미지를 추
 
 
 
